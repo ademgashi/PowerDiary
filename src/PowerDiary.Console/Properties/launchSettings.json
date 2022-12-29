@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PowerDiaryAssigment": {
+      "commandName": "Project",
+      "commandLineArgs": "palindrome=sqrrqabccbatudefggfedvwhijkllkjihxymnnmzpop"
+    }
+  }
+}
