@@ -48,9 +48,9 @@ Please explain the work that you did or any challenges that you faced, either by
    ```
 7. Navigate to "\src\PowerDiary.Console\bin\Debug\net6.0\" from command line
    ```csharp
-    PowerDiary.Console.exe -palindrome=sqrrqabccbatudefggfedvwhijkllkjihxymnnmzpop  
+    PowerDiary.Console.exe
   
-    PowerDiary.Console.exe -palindrome=aaa  
+    PowerDiary.Console.exe 
   
     
    ```
